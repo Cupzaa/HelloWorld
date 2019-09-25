@@ -5,7 +5,7 @@
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~yim_cjs)
+# JANGAN LUPA ADD (line.me/ti/p/~yim_cjs)
 
 ## Termux
 
